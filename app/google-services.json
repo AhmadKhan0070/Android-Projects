@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855282498755",
+    "firebase_url": "https://suituppk-98c67.firebaseio.com",
+    "project_id": "suituppk-98c67",
+    "storage_bucket": "suituppk-98c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855282498755:android:2e646337ed514c86b5f676",
+        "android_client_info": {
+          "package_name": "com.example.suituppk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855282498755-dult005694fuaob4al98spipv73ej78o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJkYgVyjXDbFBloqvvg0x9ACiurLzYKxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855282498755-dult005694fuaob4al98spipv73ej78o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
